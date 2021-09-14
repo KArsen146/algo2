@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arsenijkarpov/2семестр/Алгоритмы/13лаба/algo132/main.cpp
+iostream
+-
+vector
+-
+string
+-
+

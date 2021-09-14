@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arsenijkarpov/2семестр/Алгоритмы/9лаба/oybek/main.cpp
+iostream
+-
+queue
+-
+string
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arsenijkarpov/2семестр/Алгоритмы/8лаба/algo84/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+

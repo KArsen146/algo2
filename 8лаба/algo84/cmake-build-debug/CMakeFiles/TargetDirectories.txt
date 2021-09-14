@@ -1,0 +1,3 @@
+/Users/arsenijkarpov/2семестр/Алгоритмы/8лаба/algo84/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arsenijkarpov/2семестр/Алгоритмы/8лаба/algo84/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arsenijkarpov/2семестр/Алгоритмы/8лаба/algo84/cmake-build-debug/CMakeFiles/algo84.dir
